@@ -1,2 +1,72 @@
-# Web-developer-Personal-site
-This is my personal website. Would be used as web developing services provided by me, previously I used to test websites with this repo and domain.
+# 🌐 Web Development Services by Mehdi Hassan
+
+Hi there 👋  
+I'm **Mehdi Hassan**, a skilled **Front-End & Backend Web Developer** helping businesses and individuals turn their ideas into modern, responsive, and high-performing websites.
+
+---
+
+## 🚀 What I Offer
+
+### 💼 Business Websites
+- Professional custom pages website, landing, portfolio pages for freelancers, local businessowners, and individuals. 
+- Portfolio & company profile websites  
+- Integration with WhatsApp, contact forms, and Google Maps  
+
+### 🛒 E-Commerce & Catalog Sites
+- Product showcase or simple shop setups  
+- WhatsApp order system (no payment gateway required)  
+- Mobile-friendly, SEO-optimized layouts
+
+### ⚙️ Other Services
+- Website redesign or UI improvement  
+- Hosting & domain setup help  
+- SEO optimization for better Google ranking  
+
+---
+
+## 🧩 Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript, Typescript, TailwindCSS   
+- **Frameworks:** React.js / Next.js (for advanced projects)  
+- **Tools:** Git, GitHub, VS Code, Canva  
+- **Hosting:** GitHub Pages, Netlify, Vercel, custom domains & Paid hosting  
+
+---
+
+## 🕓 Work Process
+
+1. **Discussion:** Understand your goals and vision  
+2. **Design:** Create a layout or sample UI for approval  
+3. **Development:** Build your site using clean, responsive code  
+4. **Delivery:** Final site uploaded + training (if needed)
+
+---
+
+## 💬 Let's Work Together
+
+📩 **Email:** info@probsolv.online
+💬 **WhatsApp:** [Chat Now](https://wa.me/923272583013)  
+🌍 **Website:** [probsolv.online](https://www.probsolv.online)  
+📱 **Facebook:** [facebook.com/profile.php?id=61578139677102](https://www.facebook.com/mehdi.hassan.607411)
+
+---
+
+ 🧠 About Me
+I'm a self-taught web developer from Sindh, Pakistan, passionate about building responsive websites and useful digital products.  
+My mission is to help small businesses and solopreneurs go online and grow through smart, creative website solutions.
+
+> “Code that connects people and brings ideas to life.” – Mehdi Hassan
+
+---
+
+## ⭐ Why Choose Me?
+✅ Fast delivery & mobile-responsive design  
+✅ Clean, SEO-friendly code  
+✅ Friendly communication, Understanding your vision before buliding
+✅ Support even after project delivery  
+
+---
+
+### 💻 Need a Website?
+Let’s build something amazing together!  
+→ [Message me on WhatsApp](https://wa.me/923272583013)
